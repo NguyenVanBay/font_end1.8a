@@ -64,6 +64,14 @@
 
 /* Your plugin style here */
 
+.container {
+  display: flex;
+}
+
+.wraper {
+  width: 50%;
+}
+
 .relative {
   position: relative;
 }
@@ -74,4 +82,5 @@
 
 .fixed {
   position: fixed;
+  width: 134px;
 }
