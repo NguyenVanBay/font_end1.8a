@@ -61,19 +61,17 @@
 }
 
 
+
 /* Your plugin style here */
 
-.fixed {
-  position: fixed;
-  top: 50px;
+.relative {
+  position: relative;
 }
 
 .absolute {
   position: absolute;
-  bottom: 0px;
 }
 
-.relative {
-  position: relative;
-  bottom: 0;
+.fixed {
+  position: fixed;
 }
