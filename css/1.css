@@ -65,26 +65,6 @@
 
 /* Your plugin style here */
 
-.container {
-  display: flex;
-}
-
-.wraper {
-  width: 50%;
-}
-
-.relative {
-  position: relative;
-}
-
-.absolute {
-  position: absolute;
-}
-
-.fixed {
-  position: fixed;
-  width: 134px;
-}
 
 .bg-yellow {
   position: relative;
